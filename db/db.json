@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": 1,
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "21b3ec96-8a5c-45ed-abb1-ebeca2b6e1fa",
+        "title": "dinner",
+        "text": "pizza"
+    },
+    {
+        "id": "ca0857fa-aab7-4ef9-b79b-8ab0251d519f",
+        "title": "house work",
+        "text": "mow the lawn"
     }
 ]
