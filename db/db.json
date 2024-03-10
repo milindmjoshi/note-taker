@@ -1,17 +1,12 @@
 [
     {
-        "id": 1,
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "id": "21b3ec96-8a5c-45ed-abb1-ebeca2b6e1fa",
+        "id": "c0f383cb-c8a3-4aa5-b9ec-9017386c70f4",
         "title": "dinner",
-        "text": "pizza"
+        "text": "pizza pasta"
     },
     {
-        "id": "ca0857fa-aab7-4ef9-b79b-8ab0251d519f",
-        "title": "house work",
-        "text": "mow the lawn"
+        "id": "0b79d35c-daa7-458a-9ba8-551c9dac0fd4",
+        "title": "lawn work",
+        "text": "mow lawn"
     }
 ]
