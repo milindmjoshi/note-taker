@@ -1,12 +1,17 @@
 [
     {
-        "id": "bea34afa-f5f4-424a-91c4-8d8f917f00e2",
+        "id": "573a772c-75f2-43e9-91ec-2dbd5df6d128",
         "title": "dinner",
-        "text": "pizza and pasta"
+        "text": "pizza and pasta\n"
     },
     {
-        "id": "3a1701b7-141b-4d50-9a3a-f2d6f725ea0b",
-        "title": "workout",
-        "text": "weights\ncardio"
+        "id": "345a46fd-ba6d-42c9-9a0e-56689047a220",
+        "title": "snack",
+        "text": "yogurt"
+    },
+    {
+        "id": "3f9bf3e3-0bbe-4803-aede-8cc2f43da851",
+        "title": "note3",
+        "text": "hell with this shit"
     }
 ]

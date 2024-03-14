@@ -5,7 +5,8 @@ const path = require('path');
 const api = require('./routes/index.js');
 
 const app = express();
-const PORT = 3001;
+//const PORT = 3001;
+const port = process.env.PORT || 3001
 
 // serve static routes from public folder
 app.use(express.static('public'));
@@ -31,6 +32,6 @@ app.get('*',(req,resp)=>{
 })
 
 // Start server on port 3001
-app.listen(PORT,(err)=>{
-    err? console.log(err):console.log(`Server listening on port ${PORT}`);
+app.listen(port,(err)=>{
+    err? console.log(err):console.log(`Server listening on port ${port}`);
 })
